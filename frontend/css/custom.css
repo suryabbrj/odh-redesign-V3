@@ -96,7 +96,7 @@ h3 {
     display: inline-block;
     text-decoration: none;
     letter-spacing: 0px;
-    background-color: #171c8f;
+    background-color: #184330;
     border: 2px solid #fff;
     width: 40px;
     height: 40px;
@@ -201,7 +201,7 @@ h3 {
     position: absolute;
     right: -5px;
     top: -5px;
-    background-color: #171c8f;
+    background-color: #184330;
     color: white;
     border: none;
     outline: none;
@@ -263,17 +263,18 @@ h3 {
 }
 
 .btn-theme {
-    background-color: #171c8f;
+    background-color: #184330;
     color: #fff;
-    border-color: #171c8f;
+    border-radius: 60px;
+    border-color: #184330;
     font-size: 14px;
     letter-spacing: 3px;
 }
 
 .btn-theme:hover {
     background-color: #fff;
-    border-color: #171c8f;
-    color: #171c8f;
+    border-color: #184330;
+    color: #184330;
 }
 
 .btn-theme-secondary {
@@ -322,7 +323,7 @@ h3 {
     border-radius: 0;
     border: none;
     color: #fff;
-    background-color: #171c8f;
+    background-color: #184330;
 }
 
 .alert-theme .btn-close {
@@ -331,11 +332,11 @@ h3 {
 
 #mainBanner .carousel-control-next-icon,
 #mainBanner .carousel-control-prev-icon {
-    width: 50px;
-    height: 50px;
+    width: 28px;
+    height: 28px;
     border-radius: 100px;
-    background-size: 60% 60%;
-    border: 2px solid #fff;
+    background-size: 70% 70%;
+    border: 2px solid #ffffff85;
 }
 
 @media (min-width:1600px) {
@@ -395,7 +396,7 @@ h3 {
 }
 
 .intro-sec h1 {
-    color: #171c8f;
+    color: #184330;
     font-size: 3.5rem;
     margin-bottom: 1rem;
 }
@@ -435,7 +436,7 @@ h3 {
 .intro-video .slick-next {
     width: 50px;
     height: 50px;
-    background: #171c8f;
+    background: #184330;
     border: 1px solid #fff;
     z-index: 1;
 }
@@ -454,7 +455,7 @@ h3 {
 
 .exp-sec h2 {
     position: relative;
-    color: #171c8f;
+    color: #184330;
     font-size: 3.5rem;
     margin-bottom: 1rem;
 }
@@ -565,7 +566,7 @@ h3 {
 
 .celeb-sec .celeb-wrap h2 {
     font-size: 3.5rem;
-    color: #171c8f;
+    color: #184330;
     margin-bottom: 1rem;
 }
 
@@ -600,7 +601,7 @@ h3 {
 }
 
 .celeb-video a div.overlay i {
-    background-color: #171c8f;
+    background-color: #184330;
     border: 2px solid #fff;
     border-radius: 100px;
     width: 70px;
@@ -612,12 +613,12 @@ h3 {
 }
 
 .celeb-video a div.overlay:hover {
-    color: #171c8f;
+    color: #184330;
 }
 
 .celeb-video a div.overlay:hover i {
     background-color: #fff;
-    border-color: #171c8f;
+    border-color: #184330;
 }
 
 .celeb-video .slick-prev,
@@ -680,7 +681,7 @@ h3 {
 
 .reach-sec h2 {
     position: relative;
-    color: #171c8f;
+    color: #184330;
     font-size: 3.5rem;
     margin-bottom: 1rem;
 }
@@ -778,7 +779,7 @@ h3 {
 
 .stay-sec h2 {
     position: relative;
-    color: #171c8f;
+    color: #184330;
     font-size: 3.5rem;
     margin-bottom: 1rem;
 }
@@ -881,7 +882,7 @@ h3 {
 
 .glry-sec h2 {
     position: relative;
-    color: #171c8f;
+    color: #184330;
     font-size: 3.5rem;
     margin-bottom: 1rem;
 }
@@ -961,7 +962,7 @@ h3 {
 }
 
 footer {
-    background-color: #171c8f;
+    background-color: #184330;
     padding-top: 40px;
     color: #cbcad2;
 }
@@ -1000,7 +1001,7 @@ footer h2 {
     width: 30px;
     height: 30px;
     border-radius: 100px;
-    color: #171c8f;
+    color: #184330;
     background-color: #fff;
     margin-right: 10px;
     letter-spacing: 0px;
@@ -1048,7 +1049,7 @@ footer h2 {
 }
 
 .page-path {
-    background-color: #171c8f;
+    background-color: #184330;
     padding: 5px 0px;
 }
 
@@ -1137,25 +1138,25 @@ footer h2 {
 }
 
 .page-wld-plnt h2 {
-    color: #171c8f;
+    color: #184330;
     font-size: 2.5rem;
     margin-bottom: 2rem;
 }
 
 .page-wld-plnt h3 {
-    color: #171c8f;
+    color: #184330;
     font-size: 2.5rem;
     margin-bottom: 2rem;
 }
 
 .page-location h2 {
-    color: #171c8f;
+    color: #184330;
     font-size: 2.5rem;
     margin-bottom: 2rem;
 }
 
 .page-wstrn-ghts h2 {
-    color: #171c8f;
+    color: #184330;
     font-size: 3rem;
     margin-bottom: 2rem;
 }
@@ -1182,7 +1183,7 @@ footer h2 {
 }
 
 .page-reach .reach-item>i {
-    color: #171c8f;
+    color: #184330;
     background-color: #fff;
     border: 1px solid #648038;
 }
@@ -1193,7 +1194,7 @@ footer h2 {
 
 .route-map h3 {
     position: relative;
-    color: #171c8f;
+    color: #184330;
     font-size: 2.5rem;
     margin-bottom: 3rem;
 }
@@ -1268,7 +1269,7 @@ footer h2 {
 
 .route-map ul li:first-child a {
     padding-left: 20px;
-    color: #171c8f;
+    color: #184330;
     background-color: #cacbea;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
@@ -1299,7 +1300,7 @@ footer h2 {
 }
 
 .page-stay h2 {
-    color: #171c8f;
+    color: #184330;
     font-size: 3rem;
     margin-bottom: 2rem;
 }
@@ -1344,7 +1345,7 @@ footer h2 {
 }
 
 .page-activity h2 {
-    color: #171c8f;
+    color: #184330;
     font-size: 3rem;
     margin-bottom: 2rem;
 }
@@ -1365,7 +1366,7 @@ footer h2 {
 }
 
 .page-exprnc h2 {
-    color: #171c8f;
+    color: #184330;
     font-size: 3rem;
     margin-bottom: 2rem;
 }
@@ -1386,7 +1387,7 @@ footer h2 {
 }
 
 .page-gallery h2 {
-    color: #171c8f;
+    color: #184330;
     font-size: 1.5rem;
     margin-bottom: 0;
 }
@@ -1405,7 +1406,7 @@ footer h2 {
 }
 
 .page-contact h2 {
-    color: #171c8f;
+    color: #184330;
 }
 
 .page-contact .card {
@@ -1426,7 +1427,7 @@ footer h2 {
 }
 
 .page-reserv h2 {
-    color: #171c8f;
+    color: #184330;
     margin-bottom: 1rem;
 }
 
@@ -1465,7 +1466,7 @@ footer h2 {
 
 .news-list .card-title a {
     font-family: 'Didot-HTF-M06-Medium-Ital', sans-serif !important;
-    color: #171c8f;
+    color: #184330;
     font-size: 1.5rem;
     margin-bottom: 1rem;
 }
@@ -1491,7 +1492,7 @@ footer h2 {
 }
 
 .page-news h2 {
-    color: #171c8f;
+    color: #184330;
     margin: 1rem 0;
 }
 
@@ -1519,7 +1520,7 @@ footer h2 {
 }
 
 .page-news .col-md-4 ul li a:hover {
-    color: #171c8f;
+    color: #184330;
 }
 
 /* align */
@@ -1567,12 +1568,12 @@ footer h2 {
 }
 
 .page-link {
-    color: #171c8f;
+    color: #184330;
 }
 
 .page-item.active .page-link {
-    background-color: #171c8f;
-    border-color: #171c8f;
+    background-color: #184330;
+    border-color: #184330;
 }
 
 .reach-item img {
@@ -1591,7 +1592,7 @@ footer h2 {
 }
 
 .page-booking h2 {
-    color: #171c8f;
+    color: #184330;
     font-size: 3.5rem;
     margin-bottom: 1rem;
 }
@@ -1630,7 +1631,7 @@ footer h2 {
     transform: rotate(-90deg);
     padding: 10px 20px 35px;
     height: 0px;
-    background-color: #171c8f;
+    background-color: #184330;
     color: #fff !important;
     font-size: 14px;
     animation-duration: 1750ms;
@@ -2081,7 +2082,7 @@ footer h2 {
         margin-top: 40px;
     }
     .page-contact h2 {
-        color: #171c8f;
+        color: #184330;
         margin-bottom: 30px;
     }
     .page-exprnc h2 {
@@ -2142,7 +2143,7 @@ h2 {
 }
 
 .page-not-found .not-found h1 {
-    color: #171c8f;
+    color: #184330;
     font-size: 5rem;
     line-height: 1;
     margin-bottom: 20px;
@@ -2168,7 +2169,7 @@ h2 {
 .page-not-found .not-found p a {
     font-size: 18px;
     line-height: 1.2;
-    color: #171c8f;
+    color: #184330;
     text-decoration: underline;
     display: inline-block;
 }
